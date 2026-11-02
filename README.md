@@ -1,47 +1,57 @@
-# Hey, I'm Vamsi 👋
+# Hi, I'm Vamsi 👋
 
-**BCA Graduate · Aspiring Data Engineer · Data Analytics Background**
+### Data Analytics → Data Engineering
 
-I enjoy turning raw data into useful insights and learning how reliable data systems are built—from collecting and transforming data to making it ready for analytics.
+I'm a BCA graduate from Andhra Pradesh, India, building practical skills in data analytics and growing toward data engineering. I enjoy exploring datasets, writing SQL to answer business questions, and understanding how data moves from raw sources to reliable analysis.
 
-- 🌱 Currently learning **Data Engineering** and strengthening my foundations in Python, SQL, and data workflows.
-- 📊 Background in **Data Analytics**, exploratory data analysis, dashboards, and business-focused problem solving.
-- 🧰 Tools I work with: **Python · SQL · Excel · Power BI · Pandas**
-- 🧪 I learn by building practical projects and documenting what I discover.
-- 📍 Based in Andhra Pradesh, India.
+[![GitHub](https://img.shields.io/badge/GitHub-u200cbvt-181717?logo=github)](https://github.com/u200cbvt)
+[![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-analytics-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-dashboards-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
-## 🛠️ Skills
+---
 
-**Languages & data:** Python, SQL, Pandas, Exploratory Data Analysis (EDA)  
-**Analytics & reporting:** Power BI, Microsoft Excel, data visualization  
-**Currently exploring:** Data pipelines, data warehousing, and modern data engineering concepts
+## What I'm focused on
 
-## 📌 Featured Projects
+- **Analytics:** Python, Pandas, exploratory data analysis, SQL, Excel, and Power BI.
+- **Engineering foundations:** data ingestion, data transformation, data warehouses, and pipeline concepts.
+- **Working style:** practical projects, clear documentation, and business questions before charts or queries.
 
-### 📈 Global Retail Sales Dashboard
-A Power BI project exploring retail sales performance through interactive reporting and business-focused metrics.  
-[View repository →](https://github.com/u200cbvt/Global_Retail_Sales_Dashboard)
+## Featured projects
 
-### 🎵 Music Store Management
-A SQL project focused on querying and analyzing a music-store dataset.  
-[View repository →](https://github.com/u200cbvt/Music_store_Management)
+### 📊 [Global Retail Sales Dashboard](https://github.com/u200cbvt/Global_Retail_Sales_Dashboard)
+A Power BI report exploring retail sales performance, product rankings, and target-oriented metrics.
 
-### 🚗 Used Car Market Analysis
-An exploratory data analysis project investigating patterns in the used-car market.  
-[View repository →](https://github.com/u200cbvt/Used-Car-Market-Analysis-)
+**Tools:** Power BI · Data Modelling · DAX
 
-### 🌐 Personal Portfolio
-My portfolio project built with Next.js, TypeScript, Tailwind CSS, and Supabase.  
-[View repository →](https://github.com/u200cbvt/vamsi-portfolio)
+### 🎵 [Music Store Data Analysis with SQL](https://github.com/u200cbvt/Music_store_Management)
+A relational SQL project investigating customer spending, invoice trends, artist performance, and music preferences by country.
 
-## 🎯 What I'm working toward
+**Tools:** MySQL · Joins · CTEs · Window Functions
 
-I’m building from analytics foundations toward data engineering: understanding how source data is ingested, cleaned, transformed, stored, and made dependable for downstream analytics.
+### 🚗 [Used Car Market Analysis](https://github.com/u200cbvt/Used-Car-Market-Analysis-)
+A Python web-scraping and EDA project exploring advertised used-car listings across selected brands and cities.
 
-## 🤝 Let's connect
+**Tools:** Python · Requests · Beautiful Soup · Pandas · Matplotlib · Seaborn
+
+### 🌐 [Personal Portfolio](https://github.com/u200cbvt/vamsi-portfolio)
+My portfolio website project, built with Next.js, TypeScript, Tailwind CSS, and Supabase.
+
+---
+
+## GitHub activity
+
+![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=u200cbvt&show_icons=true&hide_title=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u200cbvt&layout=compact&langs_count=6)
+
+<sub>Stats cards are provided by a third-party service and may occasionally be unavailable.</sub>
+
+## Let's connect
+
+I'm interested in entry-level opportunities where I can contribute to data analysis and continue developing strong data engineering fundamentals.
 
 - GitHub: [@u200cbvt](https://github.com/u200cbvt)
 
 ---
 
-*Always learning. Always building. One project at a time.*
+*Learning by building. Improving one project at a time.*
