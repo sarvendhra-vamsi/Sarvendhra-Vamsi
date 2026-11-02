@@ -1,55 +1,78 @@
 # Bodigadla Sarvendhra Vamsi
 
-**Data Analytics · Learning Data Engineering · Python · SQL · Power BI**
+**Data Analyst | Pharma & Healthcare Analytics | SQL · Python · Power BI · Excel**
 
-I’m a BCA graduate from Andhra Pradesh who enjoys figuring out what data is saying—and what a business should do with it.
+I’m a 2026 BCA graduate based in Andhra Pradesh, India, with hands-on data analytics training and project experience across sales, customer behaviour, pricing, and operational datasets.
 
-What interests me is the work behind a useful answer: where the data came from, how it needs to be cleaned or joined, what the numbers actually mean, and how to explain the result without making it more complicated than it needs to be. That curiosity is also why I’m building from analytics toward data engineering.
+I enjoy the part of analytics that happens before a chart is made: understanding the business question, checking where the data came from, cleaning inconsistencies, validating the numbers, and explaining what the results can—and cannot—tell us.
 
-> **My rule:** a dashboard is only useful when it helps someone make a clearer decision.
+I’m particularly interested in **pharmaceutical and healthcare analytics**, alongside business intelligence, sales analytics, and supply-chain/operations reporting. I’m also building my understanding of data engineering so I can better understand how reliable data moves from source systems through ingestion, staging, transformation, and into analytical storage.
 
-## What I’m working with
+> **My principle:** useful analysis starts with trustworthy data and ends with a clearer decision.
 
-- **Python:** Pandas, exploratory data analysis, data cleaning, visualisation
-- **SQL:** joins, aggregations, subqueries, CTEs, window functions
-- **Business intelligence:** Power BI, DAX fundamentals, dashboard design
-- **Growing next:** data ingestion, ETL/ELT, pipelines, staging layers, and data warehouses
+## Skills & tools
 
-I’m still developing my engineering skills, so I focus on understanding the fundamentals and building projects that make the learning visible.
+- **SQL / MySQL:** joins, CTEs, window functions, aggregations, subqueries, relational-data analysis
+- **Python:** Pandas, NumPy, exploratory data analysis (EDA), data cleaning, web scraping with BeautifulSoup
+- **Power BI:** KPI dashboards, slicers, drill-through, basic DAX, business reporting
+- **Excel:** advanced formulas, PivotTables, conditional formatting, data organization
+- **Statistics & data quality:** descriptive statistics, trend and pattern analysis, anomaly identification, validation, accuracy and integrity checks
+- **Business analysis:** stakeholder-ready reporting, insight communication, recommendation framing, problem-solving
+- **AI fluency:** prompt design and effective AI usage (Anthropic AI Fluency training)
 
-## Selected work
+### Growing into data engineering
 
-### 01 — Retail performance
-**[Global Retail Sales Dashboard](https://github.com/sarvendhra-vamsi/Global_Retail_Sales_Dashboard)**  
-A Power BI report for exploring retail performance, top products, returns-related data, and target-oriented metrics.  
-*Power BI · Data modelling · DAX*
+I’m currently strengthening my fundamentals around data ingestion, staging layers, ETL/ELT, pipelines, and data warehouses. This is an active learning direction—not a claim of professional data-engineering experience.
 
-### 02 — Asking better questions with SQL
-**[Music Store Analysis](https://github.com/sarvendhra-vamsi/Music_store_Management)**  
-A relational database project using joins, aggregations, CTEs, and window functions to investigate customer spending, invoices, artists, and genre preferences.  
-*MySQL · Relational querying · Analytical SQL*
+## Selected projects
 
-### 03 — Exploring a real-world listing dataset
-**[Used Car Market Analysis](https://github.com/sarvendhra-vamsi/Used-Car-Market-Analysis-)**  
-A Python web-scraping and EDA project exploring advertised used-car listings across selected brands and cities, with attention to data quality and collection limits.  
-*Python · Requests · Beautiful Soup · Pandas · Visualisation*
+### 01 · Global Superstore Sales Dashboard
+**[View project repository](https://github.com/sarvendhra-vamsi/Global_Retail_Sales_Dashboard)**
 
-### 04 — Portfolio website
-**[My portfolio project](https://github.com/sarvendhra-vamsi/vamsi-portfolio)**  
-A personal portfolio built with Next.js, TypeScript, Tailwind CSS, and Supabase.
+Built an interactive Power BI report using KPI cards, slicers, gauge visuals, and drill-through pages. The project focuses on sales performance, business reporting, data cleaning, and surfacing performance patterns.
+  
+*Power BI · DAX fundamentals · Dashboard design · Data quality*
 
-## How I approach a project
+### 02 · Cars24 Multi-Brand Web Scraping & Analysis
+**[View project repository](https://github.com/sarvendhra-vamsi/Used-Car-Market-Analysis-)**
 
-1. Start with the question—not the chart.
+Collected and cleaned used-car listing data across selected brands and cities, handled inconsistencies in scraped records, and explored pricing and market patterns. The analysis was documented in a presentation-ready report.
+  
+*Python · Pandas · BeautifulSoup · EDA · Data cleaning*
+
+### 03 · Music Store Management — SQL Analytics
+**[View project repository](https://github.com/sarvendhra-vamsi/Music_store_Management)**
+
+Wrote 11 analytical SQL queries using joins, CTEs, window functions—including DENSE_RANK—aggregations, and subqueries to investigate sales and customer behaviour. Findings were documented in a 20-slide report.
+  
+*MySQL · Analytical SQL · Relational data*
+
+### 04 · HR & Sales Power BI Dashboards
+Created visual analyses of HR and sales datasets and examined loss-making transactions to surface business performance patterns.
+
+### 05 · Portfolio website
+**[Explore the portfolio source code](https://github.com/sarvendhra-vamsi/vamsi-portfolio)**
+
+A personal portfolio project built with Next.js, TypeScript, Tailwind CSS, and Supabase. It includes project exploration, case-study pages, skills and education sections, a resume area, and an admin workflow. The repository documents the current setup and deployment status.
+
+## Education & training
+
+- **Bachelor of Computer Applications (BCA)** — Elite Degree College, Dubacherla, Andhra Pradesh · 2026
+- **Data Analytics Training Program** — Innomatics Research Labs: Excel, Python, SQL, Power BI, and Statistics
+- **AI Fluency** — Anthropic: prompt design and effective AI usage
+
+## How I work
+
+1. Start with the business question.
 2. Understand the source and limitations of the data.
-3. Clean, query, and validate before interpreting results.
-4. Explain what the analysis can support, and what it cannot.
+3. Clean, validate, query, and analyse before drawing conclusions.
+4. Communicate findings in a way that helps people make decisions.
 
-## A little about my direction
+I’m looking for an entry-level opportunity in data analytics, business intelligence, pharma/healthcare reporting, or related business operations. I value practical problem-solving, careful validation, honest documentation, and explaining *why* a result matters—not just which tool produced it.
 
-I’m looking for an entry-level opportunity where I can contribute to data analytics or business intelligence while continuing to build strong data engineering fundamentals. I value practical problem-solving, honest documentation, and being able to explain *why* a result matters—not just which tool produced it.
+**Languages:** Telugu (native) · English (fluent) · Hindi (working proficiency)
 
-**Explore my work:** [Repositories](https://github.com/sarvendhra-vamsi?tab=repositories) · [Portfolio code](https://github.com/sarvendhra-vamsi/vamsi-portfolio)
+**Explore more:** [All repositories](https://github.com/sarvendhra-vamsi?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/vamsibodigadla) · [Portfolio source code](https://github.com/sarvendhra-vamsi/vamsi-portfolio)
 
 ---
 *Built through practice, one question and one project at a time.*
