@@ -13,7 +13,7 @@ I’m particularly interested in **pharmaceutical and healthcare analytics**, al
 ## Skills & tools
 
 - **SQL / MySQL:** joins, CTEs, window functions, aggregations, subqueries, relational-data analysis
-- **Python:** Pandas, NumPy, exploratory data analysis (EDA), data cleaning, web scraping with BeautifulSoup
+- **Python:** Pandas, NumPy, exploratory data analysis (EDA), data cleaning, web scraping with BeautifulSoup; FastAPI fundamentals (developing)
 - **Power BI:** KPI dashboards, slicers, drill-through, basic DAX, business reporting
 - **Excel:** advanced formulas, PivotTables, conditional formatting, data organization
 - **Statistics & data quality:** descriptive statistics, trend and pattern analysis, anomaly identification, validation, accuracy and integrity checks
@@ -22,7 +22,7 @@ I’m particularly interested in **pharmaceutical and healthcare analytics**, al
 
 ### Growing into data engineering
 
-I’m currently strengthening my fundamentals around data ingestion, staging layers, ETL/ELT, pipelines, and data warehouses. This is an active learning direction—not a claim of professional data-engineering experience.
+I’m currently strengthening my fundamentals around data ingestion, staging layers, ETL/ELT, pipelines, data warehouses, and medallion architecture (Bronze/Silver/Gold layers). This is an active learning direction—not a claim of professional data-engineering experience.
 
 ## Selected projects
 
